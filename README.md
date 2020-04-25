@@ -7,4 +7,6 @@ classpath 'com.google.ar.sceneform:plugin:1.5.0'
 implementation "com.google.ar.sceneform.ux:sceneform-ux:1.5.0"
 #### Install the following PlugIn
 Google Sceneform Tools (Beta)
+
+
 <img width="200" alt="portfolio_view" src="https://github.com/savi-1311/ARPikachu/blob/master/Screenshot_2020-04-25-17-11-07-038_com.example.arapp.jpg">
