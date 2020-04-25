@@ -7,3 +7,4 @@ classpath 'com.google.ar.sceneform:plugin:1.5.0'
 implementation "com.google.ar.sceneform.ux:sceneform-ux:1.5.0"
 #### Install the following PlugIn
 Google Sceneform Tools (Beta)
+![Screenshot](/images/logo.png)
